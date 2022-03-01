@@ -1,0 +1,17 @@
+{
+  "name": "desafio4-black-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "nodemon": "^2.0.13",
+    "yargs": "^17.2.1"
+  }
+}
